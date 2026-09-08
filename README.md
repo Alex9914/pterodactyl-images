@@ -1,6 +1,4 @@
-# This repository is not maintained
-
-I no longer use the specified game panels and thus, do not need these images. Feel free to fork and add your own. Thanks!
+Maintained for newer versions of Java Azul Zulu
 
 ## Pelican/Pterodactyl/WISP Docker Images
 
@@ -19,7 +17,7 @@ Navigate to `Admin Panel -> Nests -> Select your egg`. Add Docker image URL(s) f
 | Image                                                                                                  | Supported platforms |
 | ------------------------------------------------------------------------------------------------------ | ------------------- |
 | [Java Amazon Corretto](https://github.com/trenutoo/pterodactyl-images#java-amazon-corretto-amd64arm64) | AMD64, ARM64        |
-| [Java Azul Zulu](https://github.com/trenutoo/pterodactyl-images#java-azul-zulu-amd64arm64)             | AMD64, ARM64        |
+| [Java Azul Zulu](https://github.com/alex9914/pterodactyl-images#java-azul-zulu-amd64arm64)             | AMD64, ARM64        |
 | [Java Dragonwell](https://github.com/trenutoo/pterodactyl-images#java-dragonwell-amd64arm64)           | AMD64, ARM64        |
 | [Java Eclipse Temurin](https://github.com/trenutoo/pterodactyl-images#java-eclipse-temurin-amd64arm64) | AMD64, ARM64        |
 | [Java GraalVM](https://github.com/trenutoo/pterodactyl-images#java-graalvm-amd64arm64)                 | AMD64, ARM64        |
@@ -47,24 +45,24 @@ Navigate to `Admin Panel -> Nests -> Select your egg`. Add Docker image URL(s) f
 
 ### Java Azul Zulu [AMD64/ARM64]
 
-- [Java 8 Zulu](https://github.com/trenutoo/pterodactyl-images/tree/main/java-zulu/8)
-  - `ghcr.io/trenutoo/pterodactyl-images:java_8_zulu`
-- [Java 11 Zulu](https://github.com/trenutoo/pterodactyl-images/tree/main/java-zulu/11)
-  - `ghcr.io/trenutoo/pterodactyl-images:java_11_zulu`
-- [Java 16 Zulu](https://github.com/trenutoo/pterodactyl-images/tree/main/java-zulu/16)
-  - `ghcr.io/trenutoo/pterodactyl-images:java_16_zulu`
-- [Java 17 Zulu](https://github.com/trenutoo/pterodactyl-images/tree/main/java-zulu/17)
-  - `ghcr.io/trenutoo/pterodactyl-images:java_17_zulu`
-- [Java 18 Zulu](https://github.com/trenutoo/pterodactyl-images/tree/main/java-zulu/18)
-  - `ghcr.io/trenutoo/pterodactyl-images:java_18_zulu`
-- [Java 19 Zulu](https://github.com/trenutoo/pterodactyl-images/tree/main/java-zulu/19)
-  - `ghcr.io/trenutoo/pterodactyl-images:java_19_zulu`
-- [Java 20 Zulu](https://github.com/trenutoo/pterodactyl-images/tree/main/java-zulu/20)
-  - `ghcr.io/trenutoo/pterodactyl-images:java_20_zulu`
-- [Java 21 Zulu](https://github.com/trenutoo/pterodactyl-images/tree/main/java-zulu/21)
-  - `ghcr.io/trenutoo/pterodactyl-images:java_21_zulu`
-- [Java 22 Zulu](https://github.com/trenutoo/pterodactyl-images/tree/main/java-zulu/22)
-  - `ghcr.io/trenutoo/pterodactyl-images:java_22_zulu`
+- [Java 8 Zulu](https://github.com/alex9914/pterodactyl-images/tree/main/java-zulu/8)
+  - `ghcr.io/alex9914/pterodactyl-images:java_8_zulu`
+- [Java 11 Zulu](https://github.com/alex9914/pterodactyl-images/tree/main/java-zulu/11)
+  - `ghcr.io/alex9914/pterodactyl-images:java_11_zulu`
+- [Java 16 Zulu](https://github.com/alex9914/pterodactyl-images/tree/main/java-zulu/16)
+  - `ghcr.io/alex9914/pterodactyl-images:java_16_zulu`
+- [Java 17 Zulu](https://github.com/alex9914/pterodactyl-images/tree/main/java-zulu/17)
+  - `ghcr.io/alex9914/pterodactyl-images:java_17_zulu`
+- [Java 18 Zulu](https://github.com/alex9914/pterodactyl-images/tree/main/java-zulu/18)
+  - `ghcr.io/alex9914/pterodactyl-images:java_18_zulu`
+- [Java 19 Zulu](https://github.com/alex9914/pterodactyl-images/tree/main/java-zulu/19)
+  - `ghcr.io/alex9914/pterodactyl-images:java_19_zulu`
+- [Java 20 Zulu](https://github.com/alex9914/pterodactyl-images/tree/main/java-zulu/20)
+  - `ghcr.io/alex9914/pterodactyl-images:java_20_zulu`
+- [Java 21 Zulu](https://github.com/alex9914/pterodactyl-images/tree/main/java-zulu/21)
+  - `ghcr.io/alex9914/pterodactyl-images:java_21_zulu`
+- [Java 22 Zulu](https://github.com/alex9914/pterodactyl-images/tree/main/java-zulu/22)
+  - `ghcr.io/alex9914/pterodactyl-images:java_22_zulu`
 
 ### Java Dragonwell [AMD64/ARM64]
 
